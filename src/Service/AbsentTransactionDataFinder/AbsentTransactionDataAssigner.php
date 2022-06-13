@@ -52,7 +52,7 @@ class AbsentTransactionDataAssigner
     }
 
     /**
-     * Метод вычисления требуемых транзакций для постинга на основе имеющихся данных от ВМС и имеющихся транзакций в постинге
+     * Метод вычисления требуемых транзакций для постинга на основе имеющихся данных от ВМР и имеющихся транзакций в постинге
      *
      * @param array<string, array<string, int>> $absentNomenclaturesFromWmrActOfDiscrepancy = [
      *      'nomenclatureGuid1' => [
